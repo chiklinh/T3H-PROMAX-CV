@@ -1,11 +1,11 @@
 # T3H - PROMAX - CV
-[![Build Status](https://scontent.xx.fbcdn.net/v/t1.15752-9/s280x280/270395023_348808516702329_4151869323009235184_n.png?_nc_cat=110&ccb=1-5&_nc_sid=aee45a&_nc_ohc=W0dqtnVHkeEAX89DMxZ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLQjqovSYbNNUGKourWMZW1HK9oK6aMGLsPZYRmCpwA9w&oe=61FE4F39)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://raw.githubusercontent.com/chiklinh/T3H-PROMAX-CV/origin/dev/linhtvc/icons/icon-T3H.png)](https://t3h.edu.vn/)
 
 
 
 ## Project information
 
-ReactJS course at T3H training center
+ReactJS course at Institute of Information Technology T3H
 
 ## Build / Deploy
 
